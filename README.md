@@ -24,3 +24,11 @@ If you choose to Clone Repository (make sure you have GitHub desktop downloaded 
 6) Navigate to the "BuiltGame" folder from there using File Explorer.
 7) Double-click on "Pong.exe" file.
 8) The game should start playing as soon as the executable is clicked on.
+
+Playing the game:
+1) Player 1 is on the left and Player 2 is on the right.
+2) Player 1 moves up by pressing "W" and moves down by pressing "S".
+3) PLayer 2 moves up by pressing "UpArrow" and moves down by pressing "DownArrow".
+4) The pause menu can be opened by pressing "ESC". The help instructions and game reset button to restart the game can be found there.
+5) Score points by getting the ball to your opponent's side which is done by hitting the ball with your player's paddle.
+6) You choose what score to play to win as there is no official win condition. 
