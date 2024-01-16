@@ -13,6 +13,7 @@ If you choose to download the ZIP file:
 3) Navigate to the "BuiltGame" folder in the extracted files using File Explorer.
 4) Double-click on "Pong.exe" file.
 5) The game should start playing as soon as the executable is clicked on.
+<br>
 If you choose to Clone Repository (make sure you have GitHub desktop downloaded and opened):
 1) From the Github repository webpage, click on the green "Code" drop-down button and copy to clipboard the https url.
 2) In GitHub desktop, click on "file" and then "clone repository".
