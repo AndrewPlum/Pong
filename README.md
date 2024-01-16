@@ -9,7 +9,7 @@ https://github.com/AndrewPlum/Pong.git
 Decide if you want to download it as a ZIP file or clone the repository - downloading a ZIP file is easier for git beginners.
 
 If you choose to download the ZIP file:
-1) From the Github repository webpage, click on the green "Code" drop-down button and click on download ZIP
+1) From the Github repository webpage, click on the green "Code" drop-down button and click on download ZIP.
 2) Extract the folders from the downloaded ZIP file.
 3) Navigate to the "BuiltGame" folder in the extracted files using File Explorer.
 4) Double-click on "Pong.exe" file.
