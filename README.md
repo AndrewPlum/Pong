@@ -5,8 +5,7 @@ To get started, click on the link:
 
 https://github.com/AndrewPlum/Pong.git
 
-"Clone or Download" repository on GitHub.
-Decide if you want to download it as a ZIP file or clone the repository - downloading a ZIP file is easier for git beginners.
+From there, decide if you want to download the repository as a ZIP file or if you want to clone the repository - downloading a ZIP file is easier for git beginners.
 
 If you choose to download the ZIP file:
 1) From the Github repository webpage, click on the green "Code" drop-down button and click on download ZIP.
