@@ -41,4 +41,8 @@ https://unity.com/releases/editor/whats-new/2022.3.17
 4) After installing the unity editor, open up Unity Hub and click the "Add" button near the top right.
 5) Select the folder you downloaded the game files to. This should add the code as a project in Unity Hub
 6) Open the Unity Editor by clicking on the project in Unity Hub.
+<<<<<<< HEAD
 7) From there you can manipulate the game objects and modify the code scripts in the editor. You can also run the game in the editor by clicking the play button at the top center portion of the editor. 
+=======
+7) From there you can manipulate the game objects and modify the code scripts in the editor. You can also run the game in the editor by clicking the play button at the top center portion of the editor. 
+>>>>>>> 2c1f964ed831a6c28eebb383f35a09e9806bfeab
